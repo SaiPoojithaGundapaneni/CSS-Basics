@@ -1,0 +1,27 @@
+#vlog {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    border-style: solid; 
+    border-width: 2px 2px; 
+  
+}
+#para {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgb(243, 240, 240); 
+    
+
+}
+
+
+h3.groove {border-style: groove;}
+p.groove {border-style: groove;}
+
+h3,p {
+    background-color:white;
+    border-style: solid; 
+    
+}
